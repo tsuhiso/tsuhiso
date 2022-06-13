@@ -2,7 +2,8 @@
 
 - 💻 Programadora iniciante
 <div align="center">
-  <img align="right" alt="gi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/header.png">
+  <img align="center" alt="gi-pic" src="![image](https://user-images.githubusercontent.com/103524754/173437496-ba17d5d5-e838-47e4-98b7-6aa27fa76772.png)
+">
 </div><br>
 <div align="center">
 <div align="center">
