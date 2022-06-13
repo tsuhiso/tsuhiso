@@ -2,7 +2,7 @@
 
 - 💻 Programadora iniciante
 <div align="center">
-  <img align="center" alt="perfil" src="https://cdn.discordapp.com/attachments/header.png">
+  <img align="right" alt="gi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/header.png">
 </div><br>
 <div align="center">
 <div align="center">
