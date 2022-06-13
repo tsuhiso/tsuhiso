@@ -1,7 +1,10 @@
 ### Olá! Seja bem-vindo! :]
 
 - 💻 Programadora iniciante
-
+<div align="center">
+  <img align="center" alt="perfil" src="https://cdn.discordapp.com/attachments/825767075733307423/963238024068616333/header.png">
+</div><br>
+<div align="center">
 <div align="center">
   <a href="https://github.com/tsuhiso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsuhiso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
