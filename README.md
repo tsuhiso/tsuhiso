@@ -1,6 +1,5 @@
 ### Olá! Seja bem-vindo! :]
 
-- 💻 Programadora iniciante
 <div align="center">
   <img align="center" alt="gi-pic" src="https://user-images.githubusercontent.com/103524754/173437496-ba17d5d5-e838-47e4-98b7-6aa27fa76772.png">
 </div><br>
