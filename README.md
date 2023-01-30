@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo. :]
+### bem-vindo :D
 <hr>
 
 <div align="center">
